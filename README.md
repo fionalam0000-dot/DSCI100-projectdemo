@@ -9,3 +9,5 @@ The dataset includes player characteristics, gameplay frequency, and session beh
 Two plots were created to show player engagement over time.
 ## Results Summary
 Players with longer average sessions were more likely to subscribe to the newsletter.
+## Conclusion
+The analysis suggests that highly engaged players are more likely to subscribe to the newsletter. Future work could explore retention patterns.
